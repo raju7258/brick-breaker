@@ -2,7 +2,7 @@
 
 A classic arcade-style Brick Breaker game built with Python and PyGame, featuring multiple levels, power-ups, and enhanced gameplay mechanics.
 
-![Brick Breaker Game](assets/background.jpg)
+![Brick Breaker Game](images/background.jpg)
 
 ## Features
 
